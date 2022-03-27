@@ -1,0 +1,5 @@
+Used a distance calculator between two pairs of latitude and longitude points from: 
+https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula
+
+Used the Google Maps API: 
+https://developers.google.com/maps/documentation/javascript
